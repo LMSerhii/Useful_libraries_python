@@ -4,3 +4,7 @@
 > Encrypt files
 
 > Find IP info
+
+> Planing your code 
+
+> Automaticly download images with google
