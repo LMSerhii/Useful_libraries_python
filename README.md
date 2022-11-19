@@ -1,4 +1,4 @@
-# Useful_libraries_python
+# Useful libraries python
 *This repository contains useful libraries in my opinion that can be used in everyday practice*
 #
 > Encrypt files
