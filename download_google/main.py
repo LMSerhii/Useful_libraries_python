@@ -4,7 +4,7 @@ from icrawler.builtin import GoogleImageCrawler
 def google_img_downloader():
     filters = dict(
         type='photo',
-        color='blackandwhite',
+        # color='blackandwhite',
         size='large',
         # license='noncommercial, commercial',
         # date=((2020, 1, 1), (2022, 5, 14))
@@ -22,9 +22,9 @@ def google_img_downloader():
     # )
 
     crawler.crawl(
-        keyword='New York',
+        keyword='singapure',
         max_num=5,
-        min_size=(1000, 1000),
+        min_size=(1920, 1080),
         overwrite=True,
         filters=filters,
         file_idx_offset='auto'
